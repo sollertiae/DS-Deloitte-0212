@@ -1,0 +1,12 @@
+# SQL Subqueries and Implementations
+
+Two goals: (1) subqueries introduced as one final piece of syntax, and (2) SQL dialectal and platform differences introduced, especially including a web interface (such as on data.world).
+
+Materials:
+- [Jupyter Notebook: SQL Subqueries](sql_subqueries.ipynb)
+
+## Learning Goals
+
+- Use SQL subqueries to nest queries
+- Identify common SQL dialects and tools
+- Query data from web databases
